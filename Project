@@ -1,0 +1,16 @@
+Question 1:
+1.1. In inventory management, the economic order quantity (EOQ) is calculated using the 
+following formula:
+𝐸𝑂𝑄 = √
+2𝐾𝐷
+𝐻
+Where:
+ 𝐷: Annual demand
+ 𝐾: Order cost
+ 𝐻: Unit holding cost
+Code a program in Python to get the input data (D, K, H) from the user and then, calculate the 
+economic order quantity.
+1.2. Test your code to calculate the economic order quantity using the following data:
+ 𝐷 = 100000 units
+ 𝐾 = $2000
+ 𝐻 = $100
